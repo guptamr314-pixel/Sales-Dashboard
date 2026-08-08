@@ -43,6 +43,6 @@ The project uses sales transaction data containing information related to:
 
 ## Project Preview
 The dashboard provides a visual summary of sales performance and allows users to interact with the data using filters.
-
+![Sales Dashboard Preview](dashboard_preview.png)
 ## Author
 GitHub: [Your GitHub Profile](https://github.com/)
